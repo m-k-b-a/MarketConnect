@@ -1,2 +1,7 @@
 # MarketConnect
-A website that connects college students to college student business owners using the location of their college campus to see their products and services.
+Welcome to MarketConnect, where we celebrate the vibrant tapestry of local businesses that form the heart and soul of our communities, including student-owned local businesses. Our mission is simple yet profound: to connect people with the diverse array of local businesses in their area, fostering a thriving ecosystem of entrepreneurship and community support. At MarketConnect, we understand the power of community and the unique value that local businesses, including those owned by students, bring to the table. From cozy coffee shops to bustling boutiques, and artisanal bakeries to family-owned restaurants, we showcase the best that our neighborhoods have to offer. By promoting these businesses, including those run by students, on our platform, we aim to amplify their voices and shine a spotlight on their passion, creativity, and dedication. More than just a directory, MarketConnect is a hub of discovery and connection. Whether you're a longtime resident or a curious visitor, our platform makes it easy to explore new favorites, support local artisans, including student entrepreneurs, and forge meaningful relationships with the people behind the products and services you love. Join us in celebrating the rich tapestry of local businesses, including those owned by students, that make our communities thrive. Together, let's build a future where small businesses, regardless of ownership, have the visibility, support, and recognition they deserve. Welcome to MarketConnect – where local businesses, including those run by students, shine.
+
+
+
+
+
